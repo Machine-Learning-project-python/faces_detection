@@ -64,3 +64,4 @@ print("\nMostrando resultado. Pulsa cualquier tecla para salir.\n")
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ~~~
+![img](./images/001.png)

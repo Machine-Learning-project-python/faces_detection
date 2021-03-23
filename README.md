@@ -1,10 +1,11 @@
-# Deteción y reconocimiento de caras
+# Detección de caras
 
 1. [Descargar el clasificador](#schema1)
 2. [Cargamos la imagen y la convertimos a grises](#schema2)
 3. [Buscamos los rostros](#schema3)
 4. [Ahora recorremos el array 'coordenadas_rostros' y dibujamos los rectángulos sobre la imagen original](#schema4)
 5. [Abrimos una ventana con el resultado](#schema5)
+
 <hr>
 
 <a name="schema1"></a>
